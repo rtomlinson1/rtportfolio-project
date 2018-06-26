@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f897ed-b2bf-4509-88eb-cc345106f2a6" name="Default" comment="" />
+    <list default="true" id="99f897ed-b2bf-4509-88eb-cc345106f2a6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/rtportfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rtportfolio/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +47,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rtportfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="65" />
+            <state relative-caret-position="378">
+              <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -332,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rtportfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="65" />
+        <state relative-caret-position="378">
+          <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
         </state>
       </provider>
     </entry>
